@@ -26,16 +26,6 @@ Open `index.html` in any modern browser. No installation needed.
 ## Tech Stack
 
 - Vanilla HTML / CSS / JavaScript
-- [jsPDF](https://github.com/parallax/jsPDF) — PDF generation in the browser
-
-## Project Structure
-
-```
-jpg-to-pdf/
-└── index.html      # entire app in a single file
-```
-
-## Browser Support
 
 Works in all modern browsers (Chrome, Firefox, Edge, Safari).
 
